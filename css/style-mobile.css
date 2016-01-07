@@ -1,0 +1,21 @@
+body,input,textarea,select
+{
+	font-size: 14pt;
+}
+
+h2
+{
+	font-size: 1.5em;
+	letter-spacing: 0;
+	font-weight: 300;
+}
+
+.container
+{
+	padding: 0 15px 0 15px;
+}
+
+#main > section
+{
+	padding: 2em 0 2em 0;
+}
